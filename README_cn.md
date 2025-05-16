@@ -353,12 +353,17 @@
     <tr>
     <td><img src="docs/DocKit/assets/dockit.png" alt="Icon" width="64" height="auto" /></td>
     <td><a href="https://dockit.geekfun.club/">DocKit</a></td>
-    <td>DocKit是一個AI驅動的桌面GUI客戶端，專為NoSQL數據庫設計，支持Mac、Windows和Linux上的Elasticsearch和OpenSearch。通過集成DeepSeek等大型模型，DocKit可以幫助開發者編寫複雜的DSL查詢，並為數據管理和分析提供更好的體驗。</td>
+    <td>DocKit是一款由AI驱动的桌面GUI客户端，专为NoSQL数据库设计，支持Mac、Windows和Linux操作系统上的Elasticsearch和OpenSearch。通过集成DeepSeek等大型模型，DocKit可以帮助开发者编写复杂的DSL查询，并提升数据管理和分析的用户体验。</td>
     </tr> 
     <tr>
         <td> <img src="docs/zenfeed/assets/icon.png" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/glidea/zenfeed">zenfeed</a> </td>
         <td> 用 AI 赋能 RSS，自动筛选、总结、推送重要信息，告别信息过载。 </td>
+    </tr>
+    <tr>
+        <td> <img src="docs/NoteGen/NoteGen.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/codexu/note-gen">NoteGen</a> </td>
+        <td> NoteGen 是一款的跨端的 Markdown 笔记应用，致力于使用 AI 建立记录和写作的桥梁，将碎片化知识整理成一篇可读的笔记。 </td>
     </tr>
 </table>
 
